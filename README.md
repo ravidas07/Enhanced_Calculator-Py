@@ -10,6 +10,11 @@ A simple yet functional calculator application built using Python and Tkinter. T
 - Displays results directly in the entry field.
 - Improved layout for better user experience.
 
+## Usage
+* Click the buttons to input numbers and operations.
+* Press the "=" button to calculate the result.
+* Use the "C" button to clear the current input.
+
 ## Requirements
 
 - Python 3.x
